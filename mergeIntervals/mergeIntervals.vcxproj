@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{721DECBA-5C75-4FCC-97E8-F2D5BDCB6315}</ProjectGuid>
+    <ProjectGuid>{0230A5FF-BE99-4F05-BECC-CBF24017927A}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>mergeIntervals</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
