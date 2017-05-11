@@ -11,8 +11,6 @@ public:
 		this->start = start;
 		this->end = end;
 	}
-
-
 };
 
 vector<Interval> merge(vector<Interval> &intervals);
