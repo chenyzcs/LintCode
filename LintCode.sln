@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "intersectionII", "intersect
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mergeIntervals", "mergeIntervals\mergeIntervals.vcxproj", "{0230A5FF-BE99-4F05-BECC-CBF24017927A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "largestNumber", "largestNumber\largestNumber.vcxproj", "{A060C15D-7643-4C1C-AE77-98844F50933F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{0230A5FF-BE99-4F05-BECC-CBF24017927A}.Release|x64.Build.0 = Release|x64
 		{0230A5FF-BE99-4F05-BECC-CBF24017927A}.Release|x86.ActiveCfg = Release|Win32
 		{0230A5FF-BE99-4F05-BECC-CBF24017927A}.Release|x86.Build.0 = Release|Win32
+		{A060C15D-7643-4C1C-AE77-98844F50933F}.Debug|x64.ActiveCfg = Debug|x64
+		{A060C15D-7643-4C1C-AE77-98844F50933F}.Debug|x64.Build.0 = Debug|x64
+		{A060C15D-7643-4C1C-AE77-98844F50933F}.Debug|x86.ActiveCfg = Debug|Win32
+		{A060C15D-7643-4C1C-AE77-98844F50933F}.Debug|x86.Build.0 = Debug|Win32
+		{A060C15D-7643-4C1C-AE77-98844F50933F}.Release|x64.ActiveCfg = Release|x64
+		{A060C15D-7643-4C1C-AE77-98844F50933F}.Release|x64.Build.0 = Release|x64
+		{A060C15D-7643-4C1C-AE77-98844F50933F}.Release|x86.ActiveCfg = Release|Win32
+		{A060C15D-7643-4C1C-AE77-98844F50933F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
