@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "largestNumber", "largestNum
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "threeSum", "threeSum\threeSum.vcxproj", "{DC96B6FA-D3EB-41F3-865E-D279E38B2702}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sortColors", "sortColors\sortColors.vcxproj", "{E1BC6442-8A97-4745-A844-A5226017B310}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -191,6 +193,14 @@ Global
 		{DC96B6FA-D3EB-41F3-865E-D279E38B2702}.Release|x64.Build.0 = Release|x64
 		{DC96B6FA-D3EB-41F3-865E-D279E38B2702}.Release|x86.ActiveCfg = Release|Win32
 		{DC96B6FA-D3EB-41F3-865E-D279E38B2702}.Release|x86.Build.0 = Release|Win32
+		{E1BC6442-8A97-4745-A844-A5226017B310}.Debug|x64.ActiveCfg = Debug|x64
+		{E1BC6442-8A97-4745-A844-A5226017B310}.Debug|x64.Build.0 = Debug|x64
+		{E1BC6442-8A97-4745-A844-A5226017B310}.Debug|x86.ActiveCfg = Debug|Win32
+		{E1BC6442-8A97-4745-A844-A5226017B310}.Debug|x86.Build.0 = Debug|Win32
+		{E1BC6442-8A97-4745-A844-A5226017B310}.Release|x64.ActiveCfg = Release|x64
+		{E1BC6442-8A97-4745-A844-A5226017B310}.Release|x64.Build.0 = Release|x64
+		{E1BC6442-8A97-4745-A844-A5226017B310}.Release|x86.ActiveCfg = Release|Win32
+		{E1BC6442-8A97-4745-A844-A5226017B310}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
