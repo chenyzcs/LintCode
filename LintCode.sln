@@ -70,6 +70,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "removeNthFromEnd", "removeN
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "reverse", "reverse\reverse.vcxproj", "{067F5A7F-0CDE-4CB2-9F48-3D9EBE7504CF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "swapPairs", "swapPairs\swapPairs.vcxproj", "{73EA553C-042D-43A9-BF5F-29315CD36F6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -318,6 +320,14 @@ Global
 		{067F5A7F-0CDE-4CB2-9F48-3D9EBE7504CF}.Release|x64.Build.0 = Release|x64
 		{067F5A7F-0CDE-4CB2-9F48-3D9EBE7504CF}.Release|x86.ActiveCfg = Release|Win32
 		{067F5A7F-0CDE-4CB2-9F48-3D9EBE7504CF}.Release|x86.Build.0 = Release|Win32
+		{73EA553C-042D-43A9-BF5F-29315CD36F6B}.Debug|x64.ActiveCfg = Debug|x64
+		{73EA553C-042D-43A9-BF5F-29315CD36F6B}.Debug|x64.Build.0 = Debug|x64
+		{73EA553C-042D-43A9-BF5F-29315CD36F6B}.Debug|x86.ActiveCfg = Debug|Win32
+		{73EA553C-042D-43A9-BF5F-29315CD36F6B}.Debug|x86.Build.0 = Debug|Win32
+		{73EA553C-042D-43A9-BF5F-29315CD36F6B}.Release|x64.ActiveCfg = Release|x64
+		{73EA553C-042D-43A9-BF5F-29315CD36F6B}.Release|x64.Build.0 = Release|x64
+		{73EA553C-042D-43A9-BF5F-29315CD36F6B}.Release|x86.ActiveCfg = Release|Win32
+		{73EA553C-042D-43A9-BF5F-29315CD36F6B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
