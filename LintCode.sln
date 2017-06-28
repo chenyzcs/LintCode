@@ -55,6 +55,15 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mergeTwoLists", "mergeTwoLi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nthToLast", "nthToLast\nthToLast.vcxproj", "{7D4EB3FF-5176-425D-B7D2-F80FCAB27AD7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "partition", "partition\partition.vcxproj", "{36A9A341-7BAD-483B-8BA3-346F4E92BB69}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "includes", "includes", "{CFE3C770-9A41-4B0B-9C98-BD540A506EC3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinkedList", "LinkedList", "{9CF2B10B-29EA-4AE0-9E14-B9F672CE550B}"
+	ProjectSection(SolutionItems) = preProject
+		LinkedList.h = LinkedList.h
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -271,8 +280,19 @@ Global
 		{7D4EB3FF-5176-425D-B7D2-F80FCAB27AD7}.Release|x64.Build.0 = Release|x64
 		{7D4EB3FF-5176-425D-B7D2-F80FCAB27AD7}.Release|x86.ActiveCfg = Release|Win32
 		{7D4EB3FF-5176-425D-B7D2-F80FCAB27AD7}.Release|x86.Build.0 = Release|Win32
+		{36A9A341-7BAD-483B-8BA3-346F4E92BB69}.Debug|x64.ActiveCfg = Debug|x64
+		{36A9A341-7BAD-483B-8BA3-346F4E92BB69}.Debug|x64.Build.0 = Debug|x64
+		{36A9A341-7BAD-483B-8BA3-346F4E92BB69}.Debug|x86.ActiveCfg = Debug|Win32
+		{36A9A341-7BAD-483B-8BA3-346F4E92BB69}.Debug|x86.Build.0 = Debug|Win32
+		{36A9A341-7BAD-483B-8BA3-346F4E92BB69}.Release|x64.ActiveCfg = Release|x64
+		{36A9A341-7BAD-483B-8BA3-346F4E92BB69}.Release|x64.Build.0 = Release|x64
+		{36A9A341-7BAD-483B-8BA3-346F4E92BB69}.Release|x86.ActiveCfg = Release|Win32
+		{36A9A341-7BAD-483B-8BA3-346F4E92BB69}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9CF2B10B-29EA-4AE0-9E14-B9F672CE550B} = {CFE3C770-9A41-4B0B-9C98-BD540A506EC3}
 	EndGlobalSection
 EndGlobal
