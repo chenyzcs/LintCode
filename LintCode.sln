@@ -74,6 +74,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "swapPairs", "swapPairs\swap
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "addLists2", "addLists2\addLists2.vcxproj", "{352CA35A-34AD-43F5-9994-7D86C8A233D8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "maxNode", "maxNode\maxNode.vcxproj", "{BB130F5D-4187-4BDB-9BAA-68D07D23D57D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -338,6 +340,14 @@ Global
 		{352CA35A-34AD-43F5-9994-7D86C8A233D8}.Release|x64.Build.0 = Release|x64
 		{352CA35A-34AD-43F5-9994-7D86C8A233D8}.Release|x86.ActiveCfg = Release|Win32
 		{352CA35A-34AD-43F5-9994-7D86C8A233D8}.Release|x86.Build.0 = Release|Win32
+		{BB130F5D-4187-4BDB-9BAA-68D07D23D57D}.Debug|x64.ActiveCfg = Debug|x64
+		{BB130F5D-4187-4BDB-9BAA-68D07D23D57D}.Debug|x64.Build.0 = Debug|x64
+		{BB130F5D-4187-4BDB-9BAA-68D07D23D57D}.Debug|x86.ActiveCfg = Debug|Win32
+		{BB130F5D-4187-4BDB-9BAA-68D07D23D57D}.Debug|x86.Build.0 = Debug|Win32
+		{BB130F5D-4187-4BDB-9BAA-68D07D23D57D}.Release|x64.ActiveCfg = Release|x64
+		{BB130F5D-4187-4BDB-9BAA-68D07D23D57D}.Release|x64.Build.0 = Release|x64
+		{BB130F5D-4187-4BDB-9BAA-68D07D23D57D}.Release|x86.ActiveCfg = Release|Win32
+		{BB130F5D-4187-4BDB-9BAA-68D07D23D57D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
