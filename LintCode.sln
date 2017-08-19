@@ -90,6 +90,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "paint-fence", "paint-fence\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "triangle", "triangle\triangle.vcxproj", "{1D414DF0-5E67-46C7-9650-B388BC77F943}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "uniquePaths", "uniquePaths\uniquePaths.vcxproj", "{B88DAA70-AD88-46CF-ADC4-0BCF36A5EFBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -418,6 +420,14 @@ Global
 		{1D414DF0-5E67-46C7-9650-B388BC77F943}.Release|x64.Build.0 = Release|x64
 		{1D414DF0-5E67-46C7-9650-B388BC77F943}.Release|x86.ActiveCfg = Release|Win32
 		{1D414DF0-5E67-46C7-9650-B388BC77F943}.Release|x86.Build.0 = Release|Win32
+		{B88DAA70-AD88-46CF-ADC4-0BCF36A5EFBA}.Debug|x64.ActiveCfg = Debug|x64
+		{B88DAA70-AD88-46CF-ADC4-0BCF36A5EFBA}.Debug|x64.Build.0 = Debug|x64
+		{B88DAA70-AD88-46CF-ADC4-0BCF36A5EFBA}.Debug|x86.ActiveCfg = Debug|Win32
+		{B88DAA70-AD88-46CF-ADC4-0BCF36A5EFBA}.Debug|x86.Build.0 = Debug|Win32
+		{B88DAA70-AD88-46CF-ADC4-0BCF36A5EFBA}.Release|x64.ActiveCfg = Release|x64
+		{B88DAA70-AD88-46CF-ADC4-0BCF36A5EFBA}.Release|x64.Build.0 = Release|x64
+		{B88DAA70-AD88-46CF-ADC4-0BCF36A5EFBA}.Release|x86.ActiveCfg = Release|Win32
+		{B88DAA70-AD88-46CF-ADC4-0BCF36A5EFBA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
