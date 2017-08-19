@@ -88,6 +88,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "minPathSum", "minPathSum\mi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "paint-fence", "paint-fence\paint-fence.vcxproj", "{7BFF02AF-F676-4CE0-97B5-ACD722C58A0E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "triangle", "triangle\triangle.vcxproj", "{1D414DF0-5E67-46C7-9650-B388BC77F943}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -408,6 +410,14 @@ Global
 		{7BFF02AF-F676-4CE0-97B5-ACD722C58A0E}.Release|x64.Build.0 = Release|x64
 		{7BFF02AF-F676-4CE0-97B5-ACD722C58A0E}.Release|x86.ActiveCfg = Release|Win32
 		{7BFF02AF-F676-4CE0-97B5-ACD722C58A0E}.Release|x86.Build.0 = Release|Win32
+		{1D414DF0-5E67-46C7-9650-B388BC77F943}.Debug|x64.ActiveCfg = Debug|x64
+		{1D414DF0-5E67-46C7-9650-B388BC77F943}.Debug|x64.Build.0 = Debug|x64
+		{1D414DF0-5E67-46C7-9650-B388BC77F943}.Debug|x86.ActiveCfg = Debug|Win32
+		{1D414DF0-5E67-46C7-9650-B388BC77F943}.Debug|x86.Build.0 = Debug|Win32
+		{1D414DF0-5E67-46C7-9650-B388BC77F943}.Release|x64.ActiveCfg = Release|x64
+		{1D414DF0-5E67-46C7-9650-B388BC77F943}.Release|x64.Build.0 = Release|x64
+		{1D414DF0-5E67-46C7-9650-B388BC77F943}.Release|x86.ActiveCfg = Release|Win32
+		{1D414DF0-5E67-46C7-9650-B388BC77F943}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
